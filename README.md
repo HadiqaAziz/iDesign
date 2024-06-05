@@ -3,7 +3,7 @@
 Welcome to the iDesign Interior Decorator website! This project is a responsive, user-friendly website designed to showcase interior decorating services.
 It includes several key sections: Home, About, Services, Projects, and Contact.  
 The website is built using HTML, CSS, JavaScript, and Bootstrap to ensure a modern and visually appealing design.
-(![Project Logo](images/project-logo.png))
+(![Project Logo](interior-design-html-template.jpg))
 # Demo
 Check out the live demo of the iDesign Interior Decorator website:[ [Live Demo Link]](https://hadiqaaziz.github.io/iDesign/)
 
