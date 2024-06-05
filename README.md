@@ -22,7 +22,7 @@ Check out the live demo of the iDesign Interior Decorator website:[ [Live Demo L
 To set up the project locally, follow these steps:
 
 # Clone the repository:
-- Copy code:  git clone https://github.com/yourusername/idesign.git 
+- Copy code:  git clone https://github.com/hadiqaaziz/idesign.git 
 - Navigate to the project directory: cd idesign 
 - Open index.html in your preferred web browser. 
 # Usage
